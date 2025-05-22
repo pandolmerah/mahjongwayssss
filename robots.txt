@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pandolmerah.github.io/mahjongwayssss/sitemap.xml
